@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SavoryAI/static/css/main.8b917cad.css",
+    "main.js": "/SavoryAI/static/js/main.fb6ae897.js",
+    "index.html": "/SavoryAI/index.html",
+    "main.8b917cad.css.map": "/SavoryAI/static/css/main.8b917cad.css.map",
+    "main.fb6ae897.js.map": "/SavoryAI/static/js/main.fb6ae897.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b917cad.css",
+    "static/js/main.fb6ae897.js"
+  ]
+}
